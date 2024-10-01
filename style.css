@@ -28,7 +28,7 @@ h1{
     color: var(--cor-destaque);
 }
 
-button{
+button {
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
@@ -40,5 +40,4 @@ button{
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
-
 }
